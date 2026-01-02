@@ -1,0 +1,20 @@
+{
+  "$schema": "https://ui.shadcn.com/schema.json",
+  "style": "new-york",
+  "rsc": true,
+  "tsx": true,
+  "tailwind": {
+    "config": "",
+    "css": "src/styles/globals.css",
+    "baseColor": "neutral",
+    "cssVariables": true
+  },
+  "iconLibrary": "lucide",
+  "aliases": {
+    "components": "@reelo/ui/components",
+    "utils": "@reelo/ui/lib/utils",
+    "hooks": "@reelo/ui/hooks",
+    "lib": "@reelo/ui/lib",
+    "ui": "@reelo/ui/components"
+  }
+}
