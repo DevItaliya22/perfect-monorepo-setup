@@ -1,0 +1,4 @@
+{
+  "extends": "@reelo/typescript-config/base.json"
+}
+
